@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kevin Catucuamba
-- 👀 I’m interested in software developer.
-- 🌱 I am currently learning web development frontend and backend.
+- 👋 Hi, I’m Kevin Catucuamba.
+- 👀 I’m interested in software development.
+- 🌱 I like web and mobile development.
 - 💞️ I’m looking to collaborate on technological projects related to the web.
 - 📫 catucuambakevin@gmail.com
 
