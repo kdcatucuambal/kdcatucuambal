@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developer.
 - 🌱 I am currently learning web development frontend and backend.
 - 💞️ I’m looking to collaborate on technological projects related to the web.
-- 📫 kdcatucuambal@utn.edu.ec
+- 📫 catucuambakevin@gmail.com
 
 <!---
 kevin1999-david/kevin1999-david is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
