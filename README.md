@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Kevin Catucuamba.
-- 👀 I’m interested in software development.
-- 🌱 I like web and mobile development.
-- 💞️ I’m looking to collaborate on technological projects related to the web.
-- 📫 catucuambakevin@gmail.com
+# Kevin Catucuamba
+### Software developer
 
-<!---
-kevin1999-david/kevin1999-david is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software developer with +2 years of experience in developing web and mobile applications. Currently, I am expanding my cloud knowledge with AWS. On the frontend side, I have experience with Angular, React, and Vue, and on the backend, I have worked with NestJs, SpringBoot, and Laravel. I am constantly seeking new challenges and opportunities to grow professionally and apply my skills to solve complex problems and create effective solutions for my clients.
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kdcatucuambal09&count_private=true&theme=dark&show_icons=true)
